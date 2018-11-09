@@ -1,8 +1,9 @@
-# Kotlin Skeleton Project Using Gradle
-Just so I don't have to copy-paste this all the time
-  
-it comes with one fancy command
-```
-./gradlew dependencyUpdates
-```
-to display all out of date dependencies
+# playing around with postgres and kotlin/json
+
+## Running
+docker-compose up -d
+
+for gui:
+`http://localhost/`
+login as `asd`/`passw`
+add a server with hostname `postgres`
